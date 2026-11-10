@@ -1,8 +1,8 @@
-{
-  "BOT_TOKEN": "your-bot-token",
-  "ADMIN_ID": "tg-user-id",
-"PORT": 8080, 
-  "ADMIN_CODE": "123456", 
-  "ADMIN_USERNAME": "zidhuxd" 
-}
 
+{
+  "BOT_TOKEN": "8384774135:AAGRr_JLBSlyUV-oqiRYOrzVR2q6MiRfMR8",
+  "ADMIN_ID": "8108967826",
+"PORT": 8080,
+  "ADMIN_CODE": "ayapasaranam",
+  "ADMIN_USERNAME": "jithubhai"
+}
